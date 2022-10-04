@@ -2,7 +2,7 @@
 <p>
   <a href="https://www.linkedin.com/in/ayman-bilal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/AymanAyub9" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="aymanbilal042@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:aymanbilal042@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/ayman.ayub.5203" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
@@ -49,6 +49,8 @@ Website ScreenShots
 <br></br>
 ![Capture41](https://user-images.githubusercontent.com/114388506/193877344-24301f48-8fa8-428f-9592-53cdbf17ca24.JPG)
 
+<h5>Links:</h5>
+o https://clone-e3e42.web.app/<br></br>
 
 ## 2. Amazon-Clone Website In ReactJS
 
@@ -70,7 +72,6 @@ o https://clone-e3e42.web.app/<br></br>
 
 ## 4. Travelling Website In Bootstrap
 
-Website ScreenShots
 <br></br>
 ![Capture22](https://user-images.githubusercontent.com/114388506/193861965-8c864712-8918-4623-b613-f7fd21fb2bc3.JPG)
 ![Capture23](https://user-images.githubusercontent.com/114388506/193862005-ba9e63c5-84a1-4905-ba06-bcd250b53e0e.JPG)
