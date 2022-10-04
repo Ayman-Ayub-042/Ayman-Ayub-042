@@ -41,24 +41,17 @@ Responsibilities:<br></br>
 
 ## 1. Amazon-Clone Website In ReactJS
 
-![76 copy](https://user-images.githubusercontent.com/70802732/155930367-16b734f6-2e62-495e-b3ee-1d946b87e8b0.png)
-
-SABZISHOP is the online store for providing an extended range of farm-fresh and organic vegetables in Faisalabad. It is providing a one-click solution to get your desire list of vegetables at your doorstep.
+Amazon-Clone is online E-commerce Website.
 <br></br>
 App ScreenShots
 <br></br>
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 08 46](https://user-images.githubusercontent.com/70802732/155938747-275f61ef-ca67-44bd-b068-8c31a5904257.png)
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 08 55](https://user-images.githubusercontent.com/70802732/155938862-7bb2164a-a6c0-4cb5-84ef-927808b401e2.png)
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 09 25](https://user-images.githubusercontent.com/70802732/155938941-ebac75f1-6604-42ca-9e5f-4abb68da1145.png)
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 10 22](https://user-images.githubusercontent.com/70802732/155939784-6ebb8dc1-3657-4111-bdef-e150c7eefae6.png)
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 10 28](https://user-images.githubusercontent.com/70802732/155938823-3f5236c2-4d2e-46e5-8f76-ec8e5d8a21d3.png)
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 10 36](https://user-images.githubusercontent.com/70802732/155938927-4e06c354-8e9c-4c14-9557-cbc8cf520aa1.png)
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 10 36](https://user-images.githubusercontent.com/70802732/155938842-9992b67f-e258-4821-9849-eca657d7ee25.png)
-
+![screencapture-localhost-3000-2022-10-04-18_50_50](https://user-images.githubusercontent.com/114388506/193844669-ea944882-d3eb-4d5b-9c5f-40ce3bd6b4e9.png)
+![Capture](https://user-![Capture12](https://user-images.githubusercontent.com/114388506/193846366-cb132e53-005d-4277-bb8f-72539072cef5.JPG)
+![Capture12](ht![Capture11](https://user-images.githubusercontent.com/114388506/193846850-8e19ad2a-86c0-4d24-972e-f8e92e79922b.JPG)
+![Capture11](https://user-images.githubusercontent.com/114388506/193846945-1279d28e-49e2-440c-b999-4fa3f968958e.JPG)
 
 <h5>Links:</h5>
-<h6>Play Store</h6>
-o https://play.google.com/store/apps/details?id=com.sbs.sabzishop<br></br>
+o https://clone-e3e42.web.app/<br></br>
 
 ## 2. Rider Sabzi Shop
 
