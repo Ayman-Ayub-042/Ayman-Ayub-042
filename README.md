@@ -46,8 +46,8 @@ Amazon-Clone is online E-commerce Website.
 App ScreenShots
 <br></br>
 ![screencapture-localhost-3000-2022-10-04-18_50_50](https://user-images.githubusercontent.com/114388506/193844669-ea944882-d3eb-4d5b-9c5f-40ce3bd6b4e9.png)
-![Capture](https://user-![Capture12](https://user-images.githubusercontent.com/114388506/193846366-cb132e53-005d-4277-bb8f-72539072cef5.JPG)
-![Capture12](ht![Capture11](https://user-images.githubusercontent.com/114388506/193846850-8e19ad2a-86c0-4d24-972e-f8e92e79922b.JPG)
+![Capture](https://user-images.githubusercontent.com/114388506/193847928-a1962ad7-e204-45d4-917c-ba3d85c9ec1e.JPG)
+![Capture12](https://user-images.githubusercontent.com/114388506/193856234-72486a72-17fe-4cad-84a3-ac958e715640.JPG)
 ![Capture11](https://user-images.githubusercontent.com/114388506/193846945-1279d28e-49e2-440c-b999-4fa3f968958e.JPG)
 
 <h5>Links:</h5>
