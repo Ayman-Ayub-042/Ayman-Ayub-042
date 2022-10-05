@@ -44,19 +44,16 @@ It is a web-based tool for designing and analyzing Digital Logic circuits.
 The Frontend is created in HTML, CSS, JavaScript, and jQuery. 
 The backend is built in Django python.
 The primary deliverable of this project is that It can create truth-table and Boolean Expressions from Digital Logic Circuit.
-<br></br>
-Website ScreenShots
+
 <br></br>
 ![Capture41](https://user-images.githubusercontent.com/114388506/193877344-24301f48-8fa8-428f-9592-53cdbf17ca24.JPG)
 
 <h5>Links:</h5>
-o https://clone-e3e42.web.app/<br></br>
+o https://github.com/Ayman-Bilal/SimLogical--DLD-Tool<br></br>
 
 ## 2. Amazon-Clone Website In ReactJS
 
-Amazon-Clone is online E-commerce Website.
-<br></br>
-Website ScreenShots
+Amazon-Clone is online E-commerce Website
 <br></br>
 ![screencapture-localhost-3000-2022-10-04-18_50_50](https://user-images.githubusercontent.com/114388506/193844669-ea944882-d3eb-4d5b-9c5f-40ce3bd6b4e9.png)
 ![Capture](https://user-images.githubusercontent.com/114388506/193847928-a1962ad7-e204-45d4-917c-ba3d85c9ec1e.JPG)
@@ -69,6 +66,8 @@ o https://clone-e3e42.web.app/<br></br>
 ## 3. Expense Tracker In ReactJS
 ![screencapture-localhost-3000-2022-10-04-20_39_09](https://user-images.githubusercontent.com/114388506/193863935-19f72757-e627-46a5-b033-fcbda8381d99.png)
 
+<h5>Links:</h5>
+o https://github.com/Ayman-Bilal/Expense-Tracker-app-in-ReactJS<br></br>
 
 ## 4. Travelling Website In Bootstrap
 
@@ -83,8 +82,13 @@ o https://github.com/Ayman-Bilal/Travelling-Website<br></br>
 ## 5. Ecommerce store in HTML
 ![Capture33](https://user-images.githubusercontent.com/114388506/193864550-a3dcba2d-2b21-41c1-8296-40b43ad00d63.JPG)
 
+<h5>Links:</h5>
+o https://github.com/Ayman-Bilal/product-landing-page<br></br>
+
 ## 6. Photography Website
 
+<h5>Links:</h5>
+o https://github.com/Ayman-Bilal/Photography-website
 
 
 ## Skill
