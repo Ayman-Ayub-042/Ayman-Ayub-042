@@ -4,7 +4,7 @@
   
   <a href="https://www.linkedin.com/in/ayman-bilal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aymanbilal0428@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/2/#inbox?compose=new/mailto:aymanbilal0428@gmail.com)
+  [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/2/compose=new/mailto:aymanbilal0428@gmail.com)
 </p>
 
 
