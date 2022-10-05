@@ -3,7 +3,7 @@
 <p>
   
   <a href="https://www.linkedin.com/in/ayman-bilal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/compose=GTvVlcSGMGRKfgmbXxnrCPbgMxZQcvrfNRBFWnPszKfjnbvFRPtjZqxhLNWKxVHBKxbTCbWtGgBSC)
+ [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/compose=aymanbilal042@gmail.com?)
 </p>
 
 
