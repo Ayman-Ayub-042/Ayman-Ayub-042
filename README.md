@@ -2,7 +2,7 @@
 ++ - 📫 You can reach me: 
 <p>
   <a href="https://www.linkedin.com/in/ayman-bilal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mail.google.com/mailto:aymanbilal042@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://mail.google.com//mailto:aymanbilal042@gmail.com](https://mail.google.com/mail/u/2/#inbox?compose=new//mailto:aymanbilal042@gmail.com)" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 
