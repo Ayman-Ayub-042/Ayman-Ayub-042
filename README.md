@@ -22,6 +22,15 @@ Oct(2017) - Oct(2021)
 Graduated with CGPA 3.05 
 
 ## WORK EXPERIENCE 
+<h5> ReactJS Developer </h5>
+WebRange Solutions
+Islamabad,Pakistan
+November(2022)– Present<br></br>
+Responsibilities:<br></br>
+- Worked as junior ReactJS developer.<br></br>
+- Develop responsive and appealing websites for clients in ReactJS
+
+
 <h5>Intern ReactJS Developer </h5>
 Prozameen.com Business Expert Pakistan
 Suit No:F-55,1stFloor GlassTower,Clifton,Karachi,Pakistan
@@ -39,7 +48,46 @@ Responsibilities:<br></br>
 
 # Projects
 
-## 1. SIMLOGICAL (Web Based Design And Analysis TOol For Digital Logic Design)
+## 1. SmartRestaurant 
+It is a smart restaurant app.
+The Frontend is created in reactjs framework. 
+The backend is built in firebase.
+The primary deliverable of this project is that It can add, delete, and view food items, table booking, vendors .
+
+<br></br>
+![screencapture-localhost-3000-2023-01-05-13_03_16](https://user-images.githubusercontent.com/114388506/210731155-57090fe6-a630-41a6-9ff6-b170f0e6ba99.png)
+
+
+## 2. Football-admin-dashboard 
+admin dashobard of football website
+The Frontend is created in reactjs framework. 
+
+<br></br>
+![screencapture-localhost-3000-dashboard-2023-01-05-11_46_36](https://user-images.githubusercontent.com/114388506/210730472-c25a2f25-2366-43be-b313-02c8c6943f6c.png)
+
+
+## 3. Football-shop
+shopping dashboard website for football players
+The Frontend is created in reactjs framework. 
+
+<br></br>
+![screencapture-localhost-3000-analytics-2023-01-05-11_48_58](https://user-images.githubusercontent.com/114388506/210731668-e2103c85-3387-4504-9f2f-1394bee0ab7c.png)
+
+## 4. Electrician-app
+Admin dashboard for electrician app
+The Frontend is created in reactjs framework. 
+The backend is built in firebase.
+<br></br>
+![screencapture-localhost-3001-subcategory-2023-01-05-13_13_30](https://user-images.githubusercontent.com/114388506/210732718-86537156-8cf3-4f5c-b9eb-54ea924ddfe6.png)
+
+## 5. Kasperia-Travels
+Traveling website
+The Frontend is created in reactjs framework. 
+<br></br>
+![screencapture-localhost-3002-login-2023-01-05-13_19_29](https://user-images.githubusercontent.com/114388506/210734113-a777200f-3a4a-410e-96da-e13ba4d8bd69.png)
+
+
+## 6. SIMLOGICAL (Web Based Design And Analysis TOol For Digital Logic Design)
 It is a web-based tool for designing and analyzing Digital Logic circuits.
 The Frontend is created in HTML, CSS, JavaScript, and jQuery. 
 The backend is built in Django python.
@@ -51,7 +99,7 @@ The primary deliverable of this project is that It can create truth-table and Bo
 <h5>Links:</h5>
 o https://github.com/Ayman-Bilal/SimLogical--DLD-Tool<br></br>
 
-## 2. Amazon-Clone Website In ReactJS
+## 7. Amazon-Clone Website In ReactJS
 
 Amazon-Clone is online E-commerce Website
 <br></br>
@@ -63,13 +111,13 @@ Amazon-Clone is online E-commerce Website
 <h5>Links:</h5>
 o https://clone-e3e42.web.app/<br></br>
 
-## 3. Expense Tracker In ReactJS
+## 8. Expense Tracker In ReactJS
 ![screencapture-localhost-3000-2022-10-04-20_39_09](https://user-images.githubusercontent.com/114388506/193863935-19f72757-e627-46a5-b033-fcbda8381d99.png)
 
 <h5>Links:</h5>
 o https://github.com/Ayman-Bilal/Expense-Tracker-app-in-ReactJS<br></br>
 
-## 4. Travelling Website In Bootstrap
+## 9. Travelling Website In Bootstrap
 
 <br></br>
 ![Capture22](https://user-images.githubusercontent.com/114388506/193861965-8c864712-8918-4623-b613-f7fd21fb2bc3.JPG)
@@ -79,13 +127,13 @@ o https://github.com/Ayman-Bilal/Expense-Tracker-app-in-ReactJS<br></br>
 <h5>Links:</h5>
 o https://github.com/Ayman-Bilal/Travelling-Website<br></br>
 
-## 5. Ecommerce store in HTML
+## 10. Ecommerce store in HTML
 ![Capture33](https://user-images.githubusercontent.com/114388506/193864550-a3dcba2d-2b21-41c1-8296-40b43ad00d63.JPG)
 
 <h5>Links:</h5>
 o https://github.com/Ayman-Bilal/product-landing-page<br></br>
 
-## 6. Photography Website
+## 11. Photography Website
 
 <h5>Links:</h5>
 o https://github.com/Ayman-Bilal/Photography-website
